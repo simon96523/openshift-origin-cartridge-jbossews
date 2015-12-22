@@ -1,2 +1,5 @@
 # OpenShift Tomcat (JBossEWS) Cartridge
-This cartridge is documented in the [Cartridge Guide](http://openshift.github.io/documentation/oo_cartridge_guide.html#tomcat).
+
+Create an app with
+
+`rhc create-app <app name> "http://cartreflect-claytondev.rhcloud.com/github/bitlama/openshift-origin-cartridge-jbossews"`
