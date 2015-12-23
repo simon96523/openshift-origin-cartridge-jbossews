@@ -23,6 +23,7 @@ Versions:
 - '1.0'
 License: LGPL
 License-Url: http://www.gnu.org/copyleft/lesser.txt
+Source-Url: https://github.com/simon96523/openshift-origin-cartridge-jbossews.git
 Vendor: jboss.com
 Categories:
 - service
