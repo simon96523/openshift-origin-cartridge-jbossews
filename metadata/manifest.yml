@@ -74,6 +74,9 @@ Endpoints:
 - Private-IP-Name: IP
   Private-Port-Name: RMI_PORT
   Private-Port: 4447
+- Private-IP-Name: IP
+  Private-Port-Name: EHCACHE_CLUSTER_PORT
+  Private-Port: 35510  
 Additional-Control-Actions:
 - threaddump
 Version-Overrides:
